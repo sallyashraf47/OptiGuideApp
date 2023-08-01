@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026166063689",
+    "project_id": "optiguide-3ea76",
+    "storage_bucket": "optiguide-3ea76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026166063689:android:b4946ced5fafdfeefbb598",
+        "android_client_info": {
+          "package_name": "com.example.optiguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026166063689-sdnls338gd0bttupvhe2oqgo89m413p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiokk263wz0q_fxXzH2WGgyCjiL5GGuc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026166063689-sdnls338gd0bttupvhe2oqgo89m413p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
